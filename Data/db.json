@@ -1,0 +1,23 @@
+{
+    "blogs": [
+        {
+            "title": "My First Blog",
+            "body": "You have to believe in yourself when no one else does.",
+            "author": "Serena Williams",
+            "id": 1
+        },
+        {
+            "title": "Ninja Blog",
+            "body": "It does not matter how slowly you go, as long as you do not stop.",
+            "author": "Esther",
+            "id": 2
+        },
+        {
+            "title": "Esther Blog",
+            "body": "Be yourself; everyone else is already taken.",
+            "author": "Oscar Wilde",
+            "id": 3
+        }
+
+    ]
+}
