@@ -19,5 +19,4 @@ const Navbar = (): React.Node => {
         </div>
     );
 };
-
 export default Navbar;
